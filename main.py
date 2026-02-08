@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from vietnamesejokes.vietnamese_jokes.jokes import JOKES
+from jokes import JOKES
 from random import choice
 
 app = FastAPI()
