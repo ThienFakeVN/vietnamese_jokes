@@ -59,4 +59,10 @@ JOKES = [
         "câu punchline": "Kim tree.",
         "id": 10
     },
+{
+        "chủ đề": "chính trị",
+        "câu mở đầu": "Tổng thống Hoa Kỳ tuyên bố: “Hoa Kỳ là quốc gia có nhiều dầu nhất trên thế giới.”",
+        "câu punchline": "Tin nóng: Mỹ xâm lược Hoa Kỳ.",
+        "id": 11
+    },
 ]
