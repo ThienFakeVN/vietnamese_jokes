@@ -61,7 +61,7 @@ JOKES = [
     },
 {
         "chủ đề": "chính trị",
-        "câu mở đầu": "Tổng thống Hoa Kỳ tuyên bố: “Hoa Kỳ là quốc gia có nhiều dầu nhất trên thế giới.”",
+        "câu mở đầu": "Tổng thống Hoa Kỳ tuyên bố: “Hoa Kỳ là quốc gia có nhiều dầu mỏ nhất trên thế giới.”",
         "câu punchline": "Tin nóng: Mỹ xâm lược Hoa Kỳ.",
         "id": 11
     },
